@@ -1,3 +1,2 @@
-  PID TTY          TIME CMD
- 5390 pts/0    00:00:00 ps
-24246 pts/0    00:00:00 bash
+ mon fichier 2.
+ modif 0.
